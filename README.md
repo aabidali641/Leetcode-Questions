@@ -1,42 +1,30 @@
 <!-- BANNER -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+Aabid's+LeetCode+Repo!;Easy+%7C+Medium+%7C+Hard+Solutions;🚀+Keep+Solving%2C+Keep+Growing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+Aabid's+LeetCode+Repo!;Easy+%7C+Medium+%7C+Hard+Solutions;🚀+Keep+Solving%2C+Keep+Growing!" alt="Typing Animation" />
 </p>
 
 <h1 align="center">🔥 Aabid Ali's LeetCode Solutions 🔥</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-500%2B-success?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-100%2B-success?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-C++%2FJava%2FPython-blue?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/DSA-🧠%20Mastered%20Level-brightgreen?style=for-the-badge&logo=algolia" />
+  <img src="https://img.shields.io/badge/DSA-🧠%20Basic%20Level-brightgreen?style=for-the-badge&logo=algolia" />
 </p>
 
 ---
 
 ## 📁 Folder Structure
-**📦 LeetCode-Solutions**
-    ├── 🟢 Easy
-    ├── 🟡 Medium
-    ├── 🔴 Hard
+<pre>
+  Leetcode-Solutions/
+    ├── 🟢 Easy/
+    ├── 🟡 Medium/
+    └── 🔴 Hard/
+</pre>
 
 ---
 
 
----
-
-## 📊 Stats & Graphs
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aabidali641&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=aabidali641&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aabidali641&theme=react-dark" alt="Contribution Graph" />
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 
